@@ -718,6 +718,10 @@ section {
   .breadcrumbs ol li {
     display: inline-block;
   }
+
+  iframe {
+    height: auto!important;
+  }
 }
 
 /* Get Started Section
