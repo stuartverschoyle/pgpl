@@ -1521,8 +1521,8 @@ section {
 # Footer
 --------------------------------------------------------------*/
 .footer {
-  background: #2a2c30;
-  padding-top: 50px;
+  border-top:1px solid #2a2c30;
+  padding-top: 30px;
   padding-bottom: 30px;
 }
 
@@ -1540,7 +1540,6 @@ section {
 }
 
 .footer .footer-logo p {
-  color: #fff;
   font-size: 12px;
   letter-spacing: 1px;
 }
