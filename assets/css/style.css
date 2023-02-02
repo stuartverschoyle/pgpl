@@ -128,6 +128,10 @@ p {
   margin-bottom: 20px;
 }
 
+#digma-right-bottom blockquote p {
+  color: #fff;
+}
+
 span {
   letter-spacing: 1px;
 }
